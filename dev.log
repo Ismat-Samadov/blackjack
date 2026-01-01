@@ -1,0 +1,13 @@
+
+> blackjack@1.0.0 dev
+> next dev
+
+⚠ Port 3000 is in use by process 43054, using available port 3003 instead.
+▲ Next.js 16.1.1 (Turbopack)
+- Local:         http://localhost:3003
+- Network:       http://192.168.0.198:3003
+
+✓ Starting...
+⨯ Unable to acquire lock at /Users/ismatsamadov/blackjack/.next/dev/lock, is another instance of next dev running?
+  Suggestion: If you intended to restart next dev, terminate the other process, and then try again.
+[?25h
